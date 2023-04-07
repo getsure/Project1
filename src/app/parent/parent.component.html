@@ -1,0 +1,3 @@
+<p>parent component -{{amount}}</p> <hr/>
+
+<app-child [childData]= "amount" (customEvent)="parentMethod($event)"></app-child>

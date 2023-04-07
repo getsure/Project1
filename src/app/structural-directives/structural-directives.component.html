@@ -1,0 +1,18 @@
+<!-- <div>Product-1</div>
+<div *ngIf="isDisplayElement">Product-2</div>
+<div>Product-3</div>
+
+<div [ngSwitch]="course">
+    <p *ngSwitchCase="'java'">Java Course seleted</p>
+    <p *ngSwitchCase="'angular'">Angular Course seleted</p>
+    <p *ngSwitchDefault>Invalid Course</p> 
+</div>
+
+<ul *ngFor="let name of names">
+    <li>{{name}}</li>
+</ul> -->
+<h2 appColor>Employees List</h2> <hr/>
+
+<ul *ngFor="let employee of employees">
+    <li>{{employee.empId}}-{{employee.empName}}-{{employee.empSal}}</li>
+</ul>       

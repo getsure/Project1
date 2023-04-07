@@ -1,0 +1,5 @@
+[
+    { "productId": 100001, "productName": "samsung tv2", "productPrice": 30000 },
+    { "productId": 100002, "productName": "lg tv2", "productPrice": 30000 },
+    { "productId": 100003, "productName": "oneplus tv2", "productPrice": 50000 }
+  ]

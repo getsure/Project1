@@ -1,0 +1,15 @@
+.class1{
+    color:red;
+    background-color: gold;
+    
+}
+.class2{
+    font-size: 20px;
+}
+
+.myClass{
+    color:red;
+    background-color: gold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
